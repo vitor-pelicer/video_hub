@@ -1,3 +1,10 @@
+# 1.0.0 (2024-11-03)
+
+
+### Bug Fixes
+
+* atualização de mensagens e remoção de componetes ([2aebd3a](https://github.com/vitor-pelicer/video_hub/commit/2aebd3ae82dd1ffd4f505f666f5f062f55b5e285))
+
 ## [3.58.2](https://github.com/ixartz/Next-js-Boilerplate/compare/v3.58.1...v3.58.2) (2024-10-17)
 
 
